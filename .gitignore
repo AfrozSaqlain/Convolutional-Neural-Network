@@ -1,0 +1,6 @@
+*.sh
+*.pth
+*.err
+*.out
+training/
+testing/
